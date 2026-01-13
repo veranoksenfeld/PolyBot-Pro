@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@google/genai": "^0.1.2",
+    "@google/genai": "*",
     "ethers": "^6.13.2",
     "lucide-react": "^0.436.0",
     "react": "^18.3.1",
